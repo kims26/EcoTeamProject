@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+
+@media(min-width:0px) and (max-width:320px){
+   
+}
+@media(min-width:321px) and (max-width:480px){
+    
+}
+
+@media(min-width:481px) and (max-width:767px){
+    
+}
+@media(max-width:767px){
+    
+}
+@media(min-width:768px) and (max-width:1023px) {
+  
+  
+}
+@media(max-width:1023px){
+	
+	.background {
+    width: 100%;
+    height: 85%;
+    position: relative;
+    background-image: url(../images/sub/main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -70px!important;
+}
+ 
+   .background .inner{
+    position: relative;
+    background-image: url(../images/sub/font1.png);
+    background-repeat: no-repeat;
+     background-size: 40%!important;
+    background-position: center;
+    background-position-y: 85px;
+    
+    }
+    
+    
+}
+	
+
+
+@media(min-width:1024px){
+}
+@media(min-width:1024px) and (max-width:1199px) {
+    .background .inner{
+    position: relative;
+    background-image: url(../images/sub/font1.png);
+    background-repeat: no-repeat;
+    background-size: 50%!important;
+    background-position: center;
+    background-position-y: 110px!important;
+
+	
+}
+.background {
+    width: 100%;
+    height: 85%;
+    position: relative;
+    background-image: url(../images/sub/main.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -70px!important;
+}
+}
+@media(min-width:1200px){
+    
+}

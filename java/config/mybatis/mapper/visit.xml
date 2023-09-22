@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="visit">
+	<resultMap type="vo.VisitVo" id="visit_map">
+	   	<result  property="mem_idx"  column="mem_idx"/>
+	   	<collection property="mem_vo"
+	               column="{aaa=mem_idx}"
+	               select="mem_list_mem_idx"/>
+	</resultMap>
+	
+	<select id="mem_list_mem_idx"  resultType="vo.MemberVo">
+		select * from project_member where mem_idx=#{ aaa }
+	</select>
+
+	<select id="visit_List" resultMap="visit_map">
+		select * from project_visit order by visit_idx
+	</select>
+	
+	<insert id="visit_insert" parameterType="vo.VisitVo">
+		insert into project_visit values(seq_project_visit_idx.nextVal,
+		#{visit_content},
+		#{visit_ip},
+		sysdate,
+		#{mem_idx})
+	</insert>
+	
+	  	
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+

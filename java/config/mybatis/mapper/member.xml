@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="member">
+
+	<select id="member_selectOne" resultType="vo.MemberVo" parameterType="String">
+		select * from project_member where mem_id=#{id}
+	</select>
+	
+	<insert id="member_insert" parameterType="vo.MemberVo">
+		insert into project_member values(seq_project_mem_idx.nextVal,#{mem_name},#{mem_id},#{mem_pwd},#{mem_ip},sysdate)
+	</insert>
+	  	
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+

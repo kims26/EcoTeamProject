@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+
+body {
+  margin: 0;
+  height: 100%;
+  /*background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);*/
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+        
+@keyframes motion {
+	0% {margin-top: 0px;}
+	100% {margin-top: 10px;}
+}
+
+
+
+#btn {
+	position:absolute;
+    top: 238px;
+    right: 522px;
+    background-image: url(https://campaign-cdn.pstatic.net/0/campaign/2022/10/environment/v3/img/sp_spot_point.png);
+    -webkit-background-size: 455px 280px;
+    background-size: 455px 280px;
+    background-position: 0px -114px;
+    width: 152px;
+    height: 52px;
+    border: none;
+    animation: motion 0.6s linear 0s infinite alternate; 
+  	margin-top: 0;
+	text-indent: -9999px;
+	background-color: rgba(0, 0, 0, 0);
+
+}
+
+
+#btn1 {
+	position:absolute;
+    top: 488px;
+    left: 50px;
+    background-image: url(https://campaign-cdn.pstatic.net/0/campaign/2022/10/environment/v3/img/sp_spot_point.png);
+    -webkit-background-size: 455px 280px;
+    background-size: 455px 280px;
+    background-position: -328px 0px;
+   	width: 127px;
+    height: 52px;
+    border: none;
+    animation: motion 0.6s linear 0s infinite alternate; 
+  	margin-top: 0;
+	text-indent: -9999px;
+	background-color: rgba(0, 0, 0, 0);
+
+
+}
+
+#btn100 {
+ 	position:absolute;
+    top: 488px;
+    right: 50px;
+    background-image: url(https://campaign-cdn.pstatic.net/0/campaign/2022/10/environment/v3/img/sp_spot_point.png);
+    -webkit-background-size: 455px 280px;
+    background-size: 455px 280px;
+    background-position: 0px -57px;
+    width: 163px;
+    height: 52px;
+   
+    border: none;
+    animation: motion 0.6s linear 0s infinite alternate; 
+  	margin-top: 0;
+	text-indent: -9999px;
+	background-color: rgba(0, 0, 0, 0);
+      
+}
+
+
+
