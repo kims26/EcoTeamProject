@@ -41,11 +41,11 @@
 </p>
 
 <p align="center">
-<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/fa8243c2-96f4-411d-9b30-da7ddc6f5614">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/8d188622-38cd-4a0e-b133-2fdd69ae2f28">
 </p>
 
 <p align="center">
-<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/fa8243c2-96f4-411d-9b30-da7ddc6f5614">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/7b32f8b9-ce63-4e22-ba48-f3170285b529">
 </p>
 
 
