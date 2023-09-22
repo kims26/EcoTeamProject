@@ -21,8 +21,6 @@
 
 <br><br>
 
-# 팀원소개
-
 
 # 기능소개
 
@@ -31,7 +29,7 @@
 </p>
 
 <p align="center">
-<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/d0e60c75-5950-4218-84a9-31ac2d1ccea2">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/a5638c1b-0056-4fe0-a508-303c5d0c80f8">
 </p>
 
 <p align="center">
@@ -39,7 +37,15 @@
 </p>
 
 <p align="center">
-<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/d0e60c75-5950-4218-84a9-31ac2d1ccea2">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/fa8243c2-96f4-411d-9b30-da7ddc6f5614">
+</p>
+
+<p align="center">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/fa8243c2-96f4-411d-9b30-da7ddc6f5614">
+</p>
+
+<p align="center">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/fa8243c2-96f4-411d-9b30-da7ddc6f5614">
 </p>
 
 
