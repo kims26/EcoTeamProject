@@ -6,12 +6,12 @@
 </p>
 <br><br>
 
-# EV-CHarging 소개
+# zero waste 소개
 
 -프로젝트 기간-
 23.07.03~3.07.14
 
-**EV-CHarging**의 기획 의도는 지난 10년간
+**zero waste**의 기획 의도는
 
      미래세대의 지속가능한 일상을 보장하기 위한 자연환경의 중요성을 알리기 위해 제작
 
@@ -23,10 +23,6 @@
 
 # 팀원소개
 
-<p align="center">
-<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/b85ae0f7-23ec-4232-847f-450411d80129">
-
-</p>
 
 # 기능소개
 
