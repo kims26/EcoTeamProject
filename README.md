@@ -1,8 +1,8 @@
-# 전기차 충전소 
+# 제로웨이스트  
 
 
 <p align="center">
-<img width="60%" src="https://github.com/kims26/TeamProject/assets/114653761/5d4614a5-fafc-4828-929b-04891f9eae9f">
+<img width="60%" src="https://github.com/kims26/EcoTeamProject/assets/114653761/4081b846-dfd0-427c-a27d-65d3886d565f">
 </p>
 <br><br>
 
@@ -13,10 +13,8 @@
 
 **EV-CHarging**의 기획 의도는 지난 10년간
 
-      1.시장의 급속한 성장
-      2. 충전사업자 무분별하게 증가
+     미래세대의 지속가능한 일상을 보장하기 위한 자연환경의 중요성을 알리기 위해 제작
 
-      이로 인해 다양한 문제 발생
 
 
 
