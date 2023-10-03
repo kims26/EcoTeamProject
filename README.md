@@ -7,6 +7,15 @@
 <br><br>
 
 # zero waste 소개
+- OS : Windows 10
+- Database : Oracle11
+- Service System: Apache Tomcat,Tiles/Security/Websocket), Node.js(WebRTC), MyBatis ,
+- 언어: JAVA, JSP, HTML5, CSS3, Javascript, Python, SQL, JQuery (Ajax)
+- Tool : Eclipse, Sql developer, DBeaver, ERMaster, Visual Studio Code, Json, StarUML , ERCloud 
+- 오픈 API:, Kakao Map, 
+ - 형상관리: Git/Github, Google sheet,notion
+- UI/UX 프레임워크: Bootstrap
+
 
 -프로젝트 기간-
 23.07.03~3.07.14
